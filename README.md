@@ -25,7 +25,7 @@ to learn visual patterns that differentiate cats and dogs with high accuracy.
 - Add a web interface for real-time predictions
 - Extend to multi-class animal classification
 
-##📂 Dataset
+## 📂 Dataset
 - The model is trained on the Cats vs Dogs image dataset sourced from Kaggle.
 - The dataset contains labeled images of cats and dogs
 - Images are organized into separate class folders
