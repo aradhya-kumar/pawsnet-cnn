@@ -31,3 +31,9 @@ to learn visual patterns that differentiate cats and dogs with high accuracy.
 - Images are organized into separate class folders
 - The dataset was downloaded using the Kaggle API
 - Dataset Link https://www.kaggle.com/datasets/salader/dogsvscats
+
+## 👤 Author
+
+Aradhya Kumar Rao
+- Linkedin: https://www.linkedin.com/in/aradhya-kumar
+- GitHub: https://github.com/aradhya-kumar
